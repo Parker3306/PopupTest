@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Droid\PopupTest.Droid.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.192.168.173.101:5555" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PopupTest\MainPage.xaml.cs">
+    <Files>
+      <File FileName="PopupTest\MainPage.xaml" Line="4" Column="32" />
+      <File FileName="PopupTest\MainPage.xaml.cs" Line="25" Column="1" />
+      <File FileName="PopupTest\UserAnimationPage.xaml" Line="5" Column="32" />
+      <File FileName="PopupTest\UserAnimationPage.xaml.cs" Line="5" Column="30" />
+      <File FileName="PopupTest\Animations\UserAnimation.cs" Line="9" Column="21" />
+      <File FileName="Droid\MainActivity.cs" Line="22" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Catchpoint exceptionName="System.Exception" includeSubclasses="True" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="..\..\..\Source\Workspaces\CEINew\CEIMobile\CEIMobile\CEIMainPage.xaml.cs" line="92" offsetX="1285" offsetY="1126" expression="ProcessPicker.Items" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
